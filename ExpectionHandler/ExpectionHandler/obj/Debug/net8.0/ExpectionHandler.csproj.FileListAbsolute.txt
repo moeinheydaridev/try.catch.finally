@@ -1,0 +1,14 @@
+C:\Users\moein\source\repos\ExpectionHandler\ExpectionHandler\bin\Debug\net8.0\ExpectionHandler.exe
+C:\Users\moein\source\repos\ExpectionHandler\ExpectionHandler\bin\Debug\net8.0\ExpectionHandler.deps.json
+C:\Users\moein\source\repos\ExpectionHandler\ExpectionHandler\bin\Debug\net8.0\ExpectionHandler.runtimeconfig.json
+C:\Users\moein\source\repos\ExpectionHandler\ExpectionHandler\bin\Debug\net8.0\ExpectionHandler.dll
+C:\Users\moein\source\repos\ExpectionHandler\ExpectionHandler\bin\Debug\net8.0\ExpectionHandler.pdb
+C:\Users\moein\source\repos\ExpectionHandler\ExpectionHandler\obj\Debug\net8.0\ExpectionHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moein\source\repos\ExpectionHandler\ExpectionHandler\obj\Debug\net8.0\ExpectionHandler.AssemblyInfoInputs.cache
+C:\Users\moein\source\repos\ExpectionHandler\ExpectionHandler\obj\Debug\net8.0\ExpectionHandler.AssemblyInfo.cs
+C:\Users\moein\source\repos\ExpectionHandler\ExpectionHandler\obj\Debug\net8.0\ExpectionHandler.csproj.CoreCompileInputs.cache
+C:\Users\moein\source\repos\ExpectionHandler\ExpectionHandler\obj\Debug\net8.0\ExpectionHandler.dll
+C:\Users\moein\source\repos\ExpectionHandler\ExpectionHandler\obj\Debug\net8.0\refint\ExpectionHandler.dll
+C:\Users\moein\source\repos\ExpectionHandler\ExpectionHandler\obj\Debug\net8.0\ExpectionHandler.pdb
+C:\Users\moein\source\repos\ExpectionHandler\ExpectionHandler\obj\Debug\net8.0\ExpectionHandler.genruntimeconfig.cache
+C:\Users\moein\source\repos\ExpectionHandler\ExpectionHandler\obj\Debug\net8.0\ref\ExpectionHandler.dll
